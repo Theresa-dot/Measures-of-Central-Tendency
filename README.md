@@ -4,9 +4,9 @@ R codes of
 
 RAW DATA
 - arithmetic mean
-   direct method
-   assumed mean method
-   step deviation method
+   (a)direct method
+   (b)assumed mean method
+   (c)step deviation method
 - median
 - mode
 - harmonic mean
@@ -14,9 +14,9 @@ RAW DATA
 
 UNGROUPED CONTINUOUS DISTRIBUTION
 - arithmetic mean
-   direct method
-   assumed mean method
-   step deviation method
+   (a)direct method
+   (b)assumed mean method
+   (c)step deviation method
 - median
 - mode
 - harmonic mean
@@ -24,9 +24,9 @@ UNGROUPED CONTINUOUS DISTRIBUTION
 
 GROUPED CONTINUOUS DISTRIBUTION
 - arithmetic mean
-   direct method
-   assumed mean method
-   step deviation method
+   (a)direct method
+   (b)assumed mean method
+   (c)step deviation method
 - median
 - mode
 - harmonic mean
