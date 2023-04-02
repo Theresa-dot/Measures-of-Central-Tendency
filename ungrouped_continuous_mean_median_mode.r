@@ -1,0 +1,9 @@
+x=c(140,142,150,148,145,147)
+f=c(4,1,2,1,2,2)
+y=rep(x,f)
+mean=sum(y)/length(y)
+mean
+median(y)
+m=which(f==max(f))
+mode=x[m]
+mode
